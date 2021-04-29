@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @General-Mudkip
+- I'm a Computer Science student, currently using Python
+- My current project is a Discord bot
+- Goodbye
