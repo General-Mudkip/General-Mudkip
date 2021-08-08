@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @General-Mudkip
-- I'm a Computer Science student, currently using Python
-- My current project is a Discord bot
-- Goodbye
+- I'm a Computer Science student, currently studying Python and Java
+- I have experience with Tkinter, Discord.py, and JDA, among other libraries.
