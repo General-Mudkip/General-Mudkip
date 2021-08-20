@@ -1,5 +1,5 @@
 "When you think back on your life,
-And you're 95, a hundred years old,
+\nAnd you're 95, a hundred years old,
 And you look back over the course of your lifetime
 You're not gonna think
 I wish I owned a better phone,
