@@ -1,3 +1,4 @@
 <h1 align="center">Hello there! :wave:</h1>
 
-<h4 align="center">I'm Bence, a student from Ireland.</h4>
+<h4 align="center">I'm somwhat proficient in Javascript/Typescript, more specifically the React and Next.js frameworks (/Library).</h4>
+<h4 align="center">Typically I use WSL2 and NeoVim as my development environments.</h4>
